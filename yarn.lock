@@ -3037,6 +3037,36 @@ __metadata:
   languageName: node
   linkType: hard
 
+"fun-next@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "fun-next@workspace:."
+  dependencies:
+    "@chakra-ui/react": ^2.8.0
+    "@emotion/react": ^11.11.1
+    "@emotion/styled": ^11.11.0
+    "@tanstack/react-query": ^4.33.0
+    "@types/node": 20.5.1
+    "@types/react": 18.2.20
+    "@types/react-dom": 18.2.7
+    chart.js: ^4.3.3
+    chartjs-plugin-annotation: ^3.0.1
+    date-fns: ^2.30.0
+    eslint: 8.47.0
+    eslint-config-next: 13.4.19
+    eslint-config-prettier: ^9.0.0
+    eslint-plugin-prettier: ^5.0.0
+    framer-motion: ^10.16.0
+    next: 13.4.19
+    prettier: ^3.0.2
+    react: 18.2.0
+    react-chartjs-2: ^5.2.0
+    react-content-loader: ^6.2.1
+    react-dom: 18.2.0
+    react-icons: ^4.10.1
+    typescript: 5.1.6
+  languageName: unknown
+  linkType: soft
+
 "function-bind@npm:^1.1.1":
   version: 1.1.1
   resolution: "function-bind@npm:1.1.1"
@@ -3939,36 +3969,6 @@ __metadata:
   checksum: f4873dab8888ed4dae14d36d7cf8dc54cd042695cf7ee41d05e8757f463d11952a594eb066143cc2f7253ea1d41c6efe681cdc3ab8c2fa6eb0815fa5a94de3dc
   languageName: node
   linkType: hard
-
-"nextjs-data@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "nextjs-data@workspace:."
-  dependencies:
-    "@chakra-ui/react": ^2.8.0
-    "@emotion/react": ^11.11.1
-    "@emotion/styled": ^11.11.0
-    "@tanstack/react-query": ^4.33.0
-    "@types/node": 20.5.1
-    "@types/react": 18.2.20
-    "@types/react-dom": 18.2.7
-    chart.js: ^4.3.3
-    chartjs-plugin-annotation: ^3.0.1
-    date-fns: ^2.30.0
-    eslint: 8.47.0
-    eslint-config-next: 13.4.19
-    eslint-config-prettier: ^9.0.0
-    eslint-plugin-prettier: ^5.0.0
-    framer-motion: ^10.16.0
-    next: 13.4.19
-    prettier: ^3.0.2
-    react: 18.2.0
-    react-chartjs-2: ^5.2.0
-    react-content-loader: ^6.2.1
-    react-dom: 18.2.0
-    react-icons: ^4.10.1
-    typescript: 5.1.6
-  languageName: unknown
-  linkType: soft
 
 "npm-run-path@npm:^4.0.1":
   version: 4.0.1
